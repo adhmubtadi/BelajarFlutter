@@ -1,3 +1,9 @@
+// Judul, Penulis, Tahun Terbit
+// Membuat constructor dari ke tiga prop
+// Method desc => menampilkan 3 prop
+// Cek buku lama atau baru? -> Buku ini masih baru
+// atau lama (<2015 => Buka ini sudah lama >= 2015 Buku ini masih baru)
+
 class Buku {
   String? judul;
   String? penulis;
